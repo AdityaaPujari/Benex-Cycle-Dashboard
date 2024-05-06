@@ -1,6 +1,5 @@
 # Benex-Cycle-Dashboard
-## Situation
-A Componey(Benex Cycles) just reached to you to help them create a dashboard using their historical data
+
 ## Introduction
 Welcome to the Benex Cycle Dashboard, where data meets strategy in the pursuit of sales excellence. In a world where every decision counts, this dynamic tool serves as your compass, guiding you through the intricate landscape of Benex cycle sales. Let's embark on this journey together, harnessing the power of insights to drive impactful change and unlock new avenues of success.
 
